@@ -1,0 +1,5 @@
+1669101273787:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/43/z0_2q17n5lxdq3q6nmyd9fmr0000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/rakhubovslava/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/221.5591.52/IntelliJ IDEA CE.app.plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1669101336778:[info] Loading global plugins from <DIRECTORY>
+1669101336895:[info] Loading project definition from <DIRECTORY>
+1669101336990:[info] Set current project to <PROJECT_NAME>
+1669101337065:>
